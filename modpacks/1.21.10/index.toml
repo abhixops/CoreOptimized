@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bd65d4faad8e404e0e90ba565a2fdf5a3b64dedac6043bc714c3b1e09389389d"
+hash = "0fca4b3f9834ed616ea4292d48d2da6771657a072d0f25a360b99baa6ec88efe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "50ce71d3bfd9676ff82888e4d826cc1582d5b602be18c2d6668a561a76fe9277"
+hash = "c78393e7cb85389cc74a07abaa6767e2ad347d1b4b401251c1ef05b75b16f1ba"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -50,7 +50,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "aea6ecd9ce43caa63a30ed9fc29c99b6e62ab0ce44abe0c6be0813f00a07f2b3"
+hash = "c9a96e1447e48778d9dee04e36060d5ac3a4b6d9c25043ef4e0d9f1ede7cd07c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "978c05608ae60f7e40925d145910c124bb90db5db0ea8f8786fccd677eced4d6"
+hash = "627733f5ea87211180e1ff8c59dcb97e64a49c19ecb1a49621e85c86c8448e40"
 metafile = true
 
 [[files]]
