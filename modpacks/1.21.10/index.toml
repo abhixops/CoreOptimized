@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0fca4b3f9834ed616ea4292d48d2da6771657a072d0f25a360b99baa6ec88efe"
+hash = "40f495ffbcce81bde1f61b7c797afb94d690c73e29d57c82a20f8f3691c7f019"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c78393e7cb85389cc74a07abaa6767e2ad347d1b4b401251c1ef05b75b16f1ba"
+hash = "793ea77de3c633ffed508bcd202b77f97159e888f87c243e4df7b48fbfce9054"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -54,12 +54,12 @@ hash = "c9a96e1447e48778d9dee04e36060d5ac3a4b6d9c25043ef4e0d9f1ede7cd07c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
+hash = "7e1f02c60c897af0558c3c72e1d9d4ef376e849d69e75bbea47c81d76d68513e"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "bc4668d6a3c606c1e1d95d3dc924d37edddc353b14f665d8d60c5638eadb8f64"
+hash = "0e073702f4562edac6258fd01f8b921628adf48fdd7e70209d93f4978753a0ce"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e6aa8d3d411cdf2c38eb7d2ab716350369d1bbb49be8bf10808232d772885af1"
+hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
 metafile = true
 
 [[files]]
@@ -155,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
 metafile = true
 
 [[files]]
