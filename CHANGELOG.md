@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.7.1] 1.21.10 - ---12-2025
 ### Added
   - Animatica
+### Removed
+  - Enhanced Block Entity
+  - Polytone
 
 ## [1.7.0-beta.5] 1.21.10 - 08-12-2025
 ### Added
