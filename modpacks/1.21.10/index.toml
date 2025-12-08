@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "40f495ffbcce81bde1f61b7c797afb94d690c73e29d57c82a20f8f3691c7f019"
+hash = "a7c81ad12e2167d443241cfb2507b7b53888c8d261c31a42351d3bdca27714e1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "793ea77de3c633ffed508bcd202b77f97159e888f87c243e4df7b48fbfce9054"
+hash = "f2e090f4529a25ff530b9dea0b7e2485cb396c0228a2d81c44e58945c4d23ce2"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -51,6 +51,11 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "c9a96e1447e48778d9dee04e36060d5ac3a4b6d9c25043ef4e0d9f1ede7cd07c"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
