@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a7c81ad12e2167d443241cfb2507b7b53888c8d261c31a42351d3bdca27714e1"
+hash = "5000cdae2962c84027ce498a9cf743dc8ec483fc40a8aca3639b7a31ca59b336"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "1824973cb742d12562cecdf5f6018d820d7b9461b3f45aa562f6f0b34348f812"
+hash = "8bc8952c869b5dadfa6e76e26a084153868a7ad55c949772d222e8a6fd18c1f5"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
+hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
+hash = "b6dd8c2e3c0b386b2551844c81c41940554f373c24aa8a35f20dfd63022e59fb"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
+hash = "deb841bd032e5b2722df01d2743b1fc67be20540b9608ee29501909f37ba3015"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+hash = "d3d3ebf53454b237e6ac91a6e3dc5fd34bfeefcf0714a11bfadd3e1488161772"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "627733f5ea87211180e1ff8c59dcb97e64a49c19ecb1a49621e85c86c8448e40"
+hash = "a59c8c9b07609b40f86f5f7f7b4b6815c2c96bd670d3026232bbaf8afef419d5"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+hash = "8c80e3393ce1fb38159f02af4dd3a7aba0b656945aac8c3da5aef04b22915e35"
 metafile = true
 
 [[files]]
