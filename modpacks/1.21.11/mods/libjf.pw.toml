@@ -1,0 +1,13 @@
+name = "LibJF"
+filename = "libjf-3.19.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/2FxXTUgp/libjf-3.19.6.jar"
+hash-format = "sha512"
+hash = "c58d7cb15360bfde17bd6acddc6b7cb2647db7bee8e672f55554d00891a0ecc415d0e5a1cd4d2b7aee5d8daf916a85708c1342e62793467243b0d0e567b2c586"
+
+[update]
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "2FxXTUgp"
