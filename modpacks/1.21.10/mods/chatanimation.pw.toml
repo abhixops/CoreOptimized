@@ -1,13 +1,13 @@
 name = "Chat Animation [Smooth Chat]"
-filename = "chatanimation-1.21.10-fabric-1.1.0.jar"
+filename = "chatanimation-fabric-1.21.10-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/fWzIG3Oc/chatanimation-1.21.10-fabric-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/4ijlWwUt/chatanimation-fabric-1.21.10-1.1.1.jar"
 hash-format = "sha512"
-hash = "7bfb93de5d13bffa18b0963dd958fae08a95a38b3f6b79f756e6e324e091e642a80c775e98524069966df000a7e0ecb5fe8890216b8f7a9a8ec6fcc6b110a595"
+hash = "b0ba2481d9b370efe25ce444e81f06c78e3c201a38ed951c22c17e4869595c8f7ef991bd9ce2bbb9d59e27c85d2c44a98ca5e0f6bc6c4cfdef4718ffda524804"
 
 [update]
 [update.modrinth]
 mod-id = "DnNYdJsx"
-version = "fWzIG3Oc"
+version = "4ijlWwUt"

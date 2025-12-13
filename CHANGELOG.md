@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.7.1] 1.21.10 - 13-12-2025
+### Added
+  - Animatica
+### Removed(Incompatible)
+  - Enhanced Block Entity
+  - Polytone
+### Updated
+  - Puzzle
+  - Chat Animation
+  - ImmediatelyFast
+  - Dynamic FPS
+  - Entity Culling
+  - Simple Voice Chat
+  - Not Enough Animations
+### Changed
+  - Updated and enforced Fabric loader 0.18.2
+
 ## [1.7.0-beta.5] 1.21.10 - 08-12-2025
 ### Added
   - FastQuit
