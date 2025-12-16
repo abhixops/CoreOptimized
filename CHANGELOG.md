@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.8.0-alpha.1] 1.21.11 - 13-12-2025
+### Changed
+  - Alpha release of 1.21.11
+  - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)
+
 ## [1.7.1] 1.21.10 - 13-12-2025
 ### Added
   - Animatica
