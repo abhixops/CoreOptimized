@@ -2,15 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "fc2b32682c81de747dafba0211144dcf0977dab0d9f0c95402c0419e59aa1e8e"
+hash = "78f07b822127ac8989b05f903a514dbb92307de8382965d9981088e56b707a17"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8b465577de089aa9ed68df39dd96635aaedeaf375246f03578933c2dc11e653e"
+hash = "cd05324d942ad1060f564e538f9c217ceca11f7e41c8c6dbef1e6b2f51cd62ed"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -38,7 +46,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "60a70f784e3eb1c0789be2211975dfbeef4dc08641b554855db0b3c364f43c12"
+hash = "56ad2d7a3ddd77fd8acd61769221c6359de752b7557feb74fefa36530adff28c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -48,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "5ab81359d4654812c2f4dd40f6db5bb51e217a228827d5cc351a40611f05d7de"
 metafile = true
 
 [[files]]
@@ -76,8 +89,18 @@ hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d3e263880c1393d7e8233979a19f97ff9cc40e2100d7a61495a5f7ef109ecf0e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6adf5f512651c200a320219c32a3a51c8b95e219206f64b99cb93940d51b2cfa"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "09d9bcf41357ee2baf28a26418bc1ed5d68ad7044252e976081295bde8dddb2e"
 metafile = true
 
 [[files]]
@@ -117,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "7b54a1765ca1bb8e01736f467c23bcccacda899819bc1a8739d12335bf4981e3"
+hash = "666836769ac3af7b269f9aa0dd42722dad42137316b099ebb8b7b255a4c8f7e9"
 metafile = true
 
 [[files]]
@@ -133,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ec6cca86e9b3f9095b6b8fe66398618067cc23e5c273cfdb25dfb5263c7aeec6"
 metafile = true
 
 [[files]]
@@ -178,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "10e5927ba9ddb93e40ab50990b34317069a2dc251109dbc24177eaca8b082275"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "8eb360a7056cd39f75c60123c9f4069dd607c67862fe22d1d83397f87d4e485a"
 metafile = true
 
 [[files]]
@@ -233,4 +266,18 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "d74d244b3524bea2326becd2ceaa27b8e231156aba33448533cd29b12ed48318"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.3.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "31b53c71c2bf08da156167befe54b5717e71ee871e10ef78a70967a0bdc8b56b"
 metafile = true
