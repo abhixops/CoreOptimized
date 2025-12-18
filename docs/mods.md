@@ -10,7 +10,7 @@
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ❌     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
