@@ -95,7 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -145,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
@@ -215,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "6191573c029c9c55c1b813c9c2d0fa777597630cd74b62e7486841b792d95d68"
+hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5936eea7a83a33027fae99530fec0fa76511ee1ecbfee8125944ba1f470e7713"
+hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
 metafile = true
 
 [[files]]
@@ -260,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
