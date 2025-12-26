@@ -64,8 +64,13 @@ hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ab5d642244ca6e19d58fb0b199985724620bf44d3dbad506e23c2d4c93a4bcb3"
+hash = "b7228724af3b37dfd3c1e0a1624af0972fa7a665c68bb3cc4c3964bdd7c78acf"
 metafile = true
 
 [[files]]
@@ -105,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "a89555e4ccf7ba3541cae70de8e1c11b007a50993f3b7ffc490932029ed8fdf5"
 metafile = true
 
 [[files]]
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -205,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "820d98a1f8bdcbf5772fda8670d6e353c120a4df8cfb478aa9b744429253a216"
+hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "ee5a9ad071c2c1c82932b5b5e7731b3bf27e4342bee6082aef03fa431b02e195"
+hash = "a40c3a4112203558bfa6bccc781b57b6da8da5ba57fd04b0086c19b591125c5f"
 metafile = true
 
 [[files]]

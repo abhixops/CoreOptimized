@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.8.0-beta.2] 1.21.11 - ---12-2025
+### Added
+  - Better Mount HUD
+### Updated
+  - Better Statistics Screen
+  - No Chat Reports
+  - Lithium
+  - Dynamic FPS
+
 ## [1.8.0-beta.1] 1.21.11 - 23-12-2025
 ### Added
   - No Chat Reports
