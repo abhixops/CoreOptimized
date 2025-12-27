@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - No Chat Reports
   - Lithium
   - Dynamic FPS
+  - Sodium Extra
 
 ## [1.8.0-beta.1] 1.21.11 - 23-12-2025
 ### Added
