@@ -7,7 +7,7 @@
 | Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ❌     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -67,32 +67,17 @@
     - In all versions, Better Advancements is being replaced by Paginated Advancements and Custom Frames.
 
 ??? example "Click to view discontinued mods."
-    | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
-    |-----------------------------------------|--------|--------|--------|--------|
-    | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
-    | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
-    | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
-    | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
-    | Chat Reporting Helper                   | ❌     | ✅     | ✅     | ✅     |
-    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
-    | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
-    | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
-    | Even Better Enchants                    | ✅     | ❌     | ✅     | ✅     |
-    | FabricSkyboxes                          | ✅     | ❌     | ❌     | ❌     |
-    | FabricSkyBoxes Interop                  | ✅     | ❌     | ❌     | ❌     |
-    | Fast Better Grass                       | ❌     | ✅     | ✅     | ✅     |
-    | Flashback                               | ❌     | ❌     | ✅     | ✅     |
-    | Freecam (Modrinth Edition)              | ✅     | ✅     | ✅     | ✅     |
-    | Indium                                  | ✅     | ❌     | ❌     | ❌     |
-    | Item Scroller                           | ❌     | ❌     | ✅     | ✅     |
-    | Just Enough Items                       | ✅     | ❌     | ❌     | 🛑     |
-    | Litematica                              | ✅     | ✅     | ✅     | 🛑     |
-    | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
-    | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
-    | Roughly Enough Items (REI)              | ❌     | ✅     | ✅     | 🛑     |
-    | Shulker+                                | ✅     | ❌     | ❌     | ❌     |
-    | Tweakeroo                               | ✅     | ✅     | ✅     | ❌     |
-    | WorldEdit                               | ✅     | ❌     | ✅     | 🛑     |
+    | Mod Name                                | Mod Name                                | Mod Name                                |
+    |-----------------------------------------|-----------------------------------------|-----------------------------------------|
+    | Armor Poser                             | FabricSkyboxes                          | Just Enough Items                       |
+    | Better Advancements                     | FabricSkyBoxes Interop                  | Litematica                              |
+    | BSL Shaders                             | Fast Better Grass                       | MaLiLib                                 |
+    | Carpet                                  | Flashback                               | MiniHUD                                 |
+    | Chat Reporting Helper                   | Freecam (Modrinth Edition)              | Roughly Enough Items (REI)              |
+    | CIT Resewn                              | Indium                                  | Shulker+                                |
+    | Dynamic Lights                          | Item Scroller                           | Tweakeroo                               |
+    | Enchant Icons                           | Jade                                    | WorldEdit                               |
+    | Even Better Enchants                    |
 
 !!! warning "Discontinuation Warning"
     We have removed these mods from the modpack to ensure that players can join any multiplayer server without issues. Based on feedback from our beta testers, several servers do not allow or support the aforementioned mods. We appreciate your understanding as we strive to maintain broad compatibility and improve the overall gameplay experience.
