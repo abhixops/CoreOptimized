@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.8.0-beta.3] 1.21.11 - ---01-2026
+### Added
+  - 
+### Changed
+  - Updated and enforced Fabric loader 0.18.4
+
 ## [1.8.0-beta.2] 1.21.11 - 31-12-2025
 ### Added
   - Better Mount HUD

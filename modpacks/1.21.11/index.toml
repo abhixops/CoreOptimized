@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "94538b653d535b94af373b6fa1b96e906906378cdfe25873ce568b82653d51da"
+hash = "9b4aa67b718ab276c9017d9f9003a0ff46c27d5de6705b4e694f292790c9d663"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2f2c9dce0b4a57cf56ad21975c6e4042aa1625ad1046d09035490b312d12859c"
+hash = "28f680af065a9f5417ebec46917532c86aacf5866e27647a62b448c03af7b01d"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
