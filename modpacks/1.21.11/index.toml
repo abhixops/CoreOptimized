@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8de5ec882920a22a75fe371efd2fbf205ef6d56dda5e6b0d40016c72fbd77bc1"
+hash = "7a2991786a3523846ee1dcaa4c34c9f1d7a544ea4dbf252df8482b19549009b4"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "26845e27a13a67d29843cf4a23581c577ff058afb798f037c5ad39ff1ca4af6e"
+hash = "c2cd3b91119eb55ab7ece9fdefa69f39d435667390575dcda4b67dddad7874e9"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "cfd75d0b2733106c76c158c8a6672b5761bfe7f0c633d231c3f0cd2690a92c22"
+hash = "a625f1f205b6d9152a66724dfc8ebe2952705daf0884e10be16c288c847346fc"
 metafile = true
 
 [[files]]
