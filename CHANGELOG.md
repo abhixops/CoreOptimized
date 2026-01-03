@@ -7,10 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [1.8.0-beta.3] 1.21.11 - ---01-2026
+### Added
+  - Added Better Block Entities as replacement of Enhance Block Entities. <!-- TODO: update before releasing -->
 ### Updated
   - Modernfix-mVUS
   - Entity Model Features
   - Polytone
+  - Dynamic FPS
+  - AudioPlayer
 ### Changed
   - Updated and enforced Fabric loader 0.18.4
 
