@@ -64,11 +64,6 @@ hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "cb1b225bb04b606ab22b2378048f2e040cff6ba9acdd1013daa054abd606b265"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -140,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "0229e8fe7f696f76a0fce46d11ddeb5d1f4b687f595558636abd27210cde2633"
 metafile = true
 
 [[files]]
@@ -195,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "c2cd3b91119eb55ab7ece9fdefa69f39d435667390575dcda4b67dddad7874e9"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
 metafile = true
 
 [[files]]
@@ -245,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a625f1f205b6d9152a66724dfc8ebe2952705daf0884e10be16c288c847346fc"
+hash = "15823988f05082108759d6a36f84fbdb784d6a21b00808040423f69452b670a4"
 metafile = true
 
 [[files]]
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]
