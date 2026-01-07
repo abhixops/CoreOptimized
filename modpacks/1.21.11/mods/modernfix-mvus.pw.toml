@@ -1,13 +1,13 @@
 name = "ModernFix-mVUS"
-filename = "modernfix-fabric-5.20.8.jar"
+filename = "modernfix-5.25.2-build.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/8To4hj0G/modernfix-fabric-5.20.8.jar"
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/JwSO8JCN/modernfix-5.25.2-build.4.jar"
 hash-format = "sha512"
-hash = "d0e15b0cece53064db19eeeea4b8fd9cc098ed74aab4c259ed541f4ed9b4083aaa439688aba61ce4b39059fa1eadfbe678cb29186a79e8a6fd69f6d388935f06"
+hash = "0d65c05ac0475408c58ef54215714e6301113101bf98bfe4bb2ba949fbfddd98225ac4e2093a5f9206a9e01ba80a931424b237bdfa3b6e178c741ca6f7f8c6a3"
 
 [update]
 [update.modrinth]
 mod-id = "TjSm1wrD"
-version = "8To4hj0G"
+version = "JwSO8JCN"

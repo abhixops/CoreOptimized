@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "94538b653d535b94af373b6fa1b96e906906378cdfe25873ce568b82653d51da"
+hash = "9b4aa67b718ab276c9017d9f9003a0ff46c27d5de6705b4e694f292790c9d663"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2f2c9dce0b4a57cf56ad21975c6e4042aa1625ad1046d09035490b312d12859c"
+hash = "28f680af065a9f5417ebec46917532c86aacf5866e27647a62b448c03af7b01d"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "e0977ddb68d1052103b190855db0f56a85499351fcd1f43df42c4ff37021b01c"
+hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
 metafile = true
 
 [[files]]
@@ -115,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a89555e4ccf7ba3541cae70de8e1c11b007a50993f3b7ffc490932029ed8fdf5"
+hash = "af8dc072b8d618de96260fccfa5fab7f79c5ca9679bc3a57473f6df4ce218fff"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8de5ec882920a22a75fe371efd2fbf205ef6d56dda5e6b0d40016c72fbd77bc1"
+hash = "7a2991786a3523846ee1dcaa4c34c9f1d7a544ea4dbf252df8482b19549009b4"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "0229e8fe7f696f76a0fce46d11ddeb5d1f4b687f595558636abd27210cde2633"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "26845e27a13a67d29843cf4a23581c577ff058afb798f037c5ad39ff1ca4af6e"
+hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "cfd75d0b2733106c76c158c8a6672b5761bfe7f0c633d231c3f0cd2690a92c22"
+hash = "15823988f05082108759d6a36f84fbdb784d6a21b00808040423f69452b670a4"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
+hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
 metafile = true
 
 [[files]]

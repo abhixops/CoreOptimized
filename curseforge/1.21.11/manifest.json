@@ -3,7 +3,7 @@
     "version": "1.21.11",
     "modLoaders": [
       {
-        "id": "fabric-0.18.2",
+        "id": "fabric-0.18.4",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.8.0-beta.2",
+  "version": "1.8.0-beta.3",
   "author": "SniperXJohn",
   "files": [
     {
@@ -91,12 +91,12 @@
     },
     {
       "projectID": 335493,
-      "fileID": 7379709,
+      "fileID": 7413058,
       "required": true
     },
     {
       "projectID": 844662,
-      "fileID": 7396598,
+      "fileID": 7400754,
       "required": true
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 7361977,
+      "fileID": 7421071,
       "required": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 1367508,
-      "fileID": 7396344,
+      "fileID": 7415809,
       "required": true
     },
     {
@@ -192,11 +192,6 @@
     {
       "projectID": 1037459,
       "fileID": 7149012,
-      "required": true
-    },
-    {
-      "projectID": 958094,
-      "fileID": 7398654,
       "required": true
     },
     {
@@ -246,7 +241,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 7361400,
+      "fileID": 7417156,
       "required": true
     },
     {
@@ -272,6 +267,11 @@
     {
       "projectID": 482160,
       "fileID": 7340224,
+      "required": true
+    },
+    {
+      "projectID": 958094,
+      "fileID": 7403949,
       "required": true
     },
     {
