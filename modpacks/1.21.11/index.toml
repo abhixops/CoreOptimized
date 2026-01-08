@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "fcea55e0347a1281308c6f57d7a6c2587d31f716dc4f72d876e4aec09902def6"
+hash = "0053fa40707004c6c12761ae8e85e4b7ae892041062d74b700608486dad4ac7c"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0229e8fe7f696f76a0fce46d11ddeb5d1f4b687f595558636abd27210cde2633"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "15823988f05082108759d6a36f84fbdb784d6a21b00808040423f69452b670a4"
+hash = "80240bd6be393c35cd863b8f96d1e3ce877ee5aa16e30eac6c17ace1c0b27473"
 metafile = true
 
 [[files]]
