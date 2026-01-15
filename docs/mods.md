@@ -18,7 +18,7 @@
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     |
 | Cubes Without Borders                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ❌     | ✅     | ❌     |
+| Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities(Better Block Entities
 )| ✅     | ❌     | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     | ❌     | ❌     | ✅     |
