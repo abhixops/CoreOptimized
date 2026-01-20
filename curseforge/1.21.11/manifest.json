@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.8.0-beta.4",
+  "version": "1.8.1",
   "author": "SniperXJohn",
   "files": [
     {
@@ -50,13 +50,18 @@
       "required": true
     },
     {
+      "projectID": 1434533,
+      "fileID": 7478144,
+      "required": true
+    },
+    {
       "projectID": 475358,
       "fileID": 6679741,
       "required": true
     },
     {
       "projectID": 667464,
-      "fileID": 7424887,
+      "fileID": 7493843,
       "required": true
     },
     {
@@ -122,6 +127,11 @@
     {
       "projectID": 308769,
       "fileID": 7340876,
+      "required": true
+    },
+    {
+      "projectID": 708967,
+      "fileID": 7491581,
       "required": true
     },
     {
@@ -201,7 +211,7 @@
     },
     {
       "projectID": 958094,
-      "fileID": 7433821,
+      "fileID": 7482542,
       "required": true
     },
     {
@@ -266,7 +276,7 @@
     },
     {
       "projectID": 574741,
-      "fileID": 7459309,
+      "fileID": 7463104,
       "required": true
     },
     {
