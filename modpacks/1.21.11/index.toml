@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7173bf58477902abd533c01317b2d23f8b0dde7e059c5fa2b45a1ca6f3ce8b15"
+hash = "83003533e7a99ef5de1a72f62d77f0c412bbe411ee737812513d4f88c6cf62a2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "477b59c043b19a77b3ab6c554847cc198536df77a60ca23790df7e4e38403796"
+hash = "f924d93703b9746cc0f8387e69027a9c38a5c8e5d95d1331d39a9b6a84aef214"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -68,13 +68,18 @@ hash = "5f2f0ac0042cf3a274098074d3acee7e61692d1c0a2ef87d883f9607aeefef9d"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "f25fe10d36c668ac9b4c564ade627cf42a5b6e7dccd01d5377be8e2033c75f5b"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "0053fa40707004c6c12761ae8e85e4b7ae892041062d74b700608486dad4ac7c"
+hash = "7b39ae9c766853820b9aca8685e451208012aec3ab4b560a22b54ec9fd3ba3f3"
 metafile = true
 
 [[files]]
@@ -155,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
 metafile = true
 
 [[files]]
@@ -254,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "80240bd6be393c35cd863b8f96d1e3ce877ee5aa16e30eac6c17ace1c0b27473"
+hash = "df86d48b2c34416f9370fef56570909258c142f3ce35e85878688c2c9ae65585"
 metafile = true
 
 [[files]]
@@ -329,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "b74fc5559d6019c3ac54581de34cf17476ad9ced4b171aced5e6554e29746020"
+hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
 
 [[files]]
