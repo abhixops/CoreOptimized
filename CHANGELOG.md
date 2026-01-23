@@ -6,6 +6,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.8.2] 1.21.11 - ---01-2026
+### Updated
+  - Polytone
+
+## [1.7.2] 1.21.10 - ---01-2026
+### Added
+  - Better Block Entities
+  - Polytone
+### Updated
+  - BetterGrassify
+  - Entity Culling
+  - Puzzle
+  - Fabric API
+  - Dynamic FPS
+  - Entity Model Features
+  - Zoomify
+  - Capes
+  - Entity Texture Features
+  - ImmediatelyFast
+  - Redstone Tweaks
+  - Fresh Animations
+  - Chat Heads
+  - Mod Menu
+  - Iris
+  - Simple Voice Chat
+  - Modernfix-mVUS
+  - Chat Animations
+  - AudioPlayer
+### Changed
+  - Replaced Enhanced Block Entities with Better Block Entities.
+### Removed
+  - Jade (As not useful for vanilla minecraft)
+
 ## [1.8.1] 1.21.11 - 20-01-2026
 ### Added
   - FastQuit
