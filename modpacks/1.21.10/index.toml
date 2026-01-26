@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5000cdae2962c84027ce498a9cf743dc8ec483fc40a8aca3639b7a31ca59b336"
+hash = "49b28c63604e68df16efb27daf515f445f4c4ae960881e00681c73776f8b2feb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2e090f4529a25ff530b9dea0b7e2485cb396c0228a2d81c44e58945c4d23ce2"
+hash = "2523f1b6fb261dd0b9fa7d7b10d2106b902dc280f6270c8274037dee03541949"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -50,7 +50,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c9a96e1447e48778d9dee04e36060d5ac3a4b6d9c25043ef4e0d9f1ede7cd07c"
+hash = "8d2504dde23e91d1c3102eeae91e8ad51df5401d14ba2ac012264d84759ea595"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ hash = "0711719bcce3f5d52babf08b4ef2f00f771057b2cf2b3d554cf002c41ddacb9b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Redstone Tweaks 2.5.2.zip.rpo"
+file = "resourcepacks/Redstone Tweaks 2.5.3.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
