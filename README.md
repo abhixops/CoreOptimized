@@ -1,55 +1,81 @@
 <div align="center">
 
-<h1> Core Optimized </h1>
+<img src="docs/assets/coreoptimized-logo.png" alt="Core Optimized Logo" width="120"/>
+
+# Core Optimized
 
 [![ReadTheDocs](https://img.shields.io/badge/Wiki-000000?style=flat-square&logo=readthedocs)](https://coreoptimized.readthedocs.io/en/latest/)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/2eWEIhCq?style=flat-square&logo=modrinth&label=Modrinth&labelColor=%23000000&color=%2300af5c)](https://modrinth.com/modpack/core-optimized-by-sniperxjohn)
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145691?style=flat-square&logo=curseforge&label=CurseForge&labelColor=%23000000&color=%23f16436)](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/2eWEIhCq?style=flat-square&logo=modrinth&label=Modrinth&labelColor=000000&color=00af5c)](https://modrinth.com/modpack/core-optimized-by-sniperxjohn)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145691?style=flat-square&logo=curseforge&label=CurseForge&labelColor=000000&color=f16436)](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)
 
 
-<p>A Vanilla like modpack which focus on Performance optimization and QoL changes.</p>
+**A Vanilla-like Minecraft modpack focused on maximum performance and smart Quality-of-Life improvements, with active development and frequent updates.**
 
 </div>
 
+---
+
+## What is Core Optimized?
+
+**Core Optimized** is a carefully curated Minecraft modpack designed to feel **as close to vanilla as possible**, while significantly improving **Performance**, **Stability** and **Quality of Life**. No tech trees, no magic systems, no forced progression — just **Minecraft, but smoother and smarter**.
+
 ## Installation
 
-Modpack is listed on Curseforge and Modrinth platform. You can use ATLauncher, Prism, Curseforge or Modrinth launcher and search for CoreOptimized.
+The modpack is officially available on **CurseForge** and **Modrinth**.
+### Supported Launchers
+- CurseForge Launcher  
+- Modrinth Launcher  
+- Prism Launcher  
+- ATLauncher  
 
-For detailed instruction please visit our Wiki page by [clicking here](https://coreoptimized.readthedocs.io/en/latest/installation/).
+Simply search for **Core Optimized** in your preferred launcher and install.
+
+For detailed instructions, please visit the [Wiki](https://coreoptimized.readthedocs.io/en/latest/installation/).
 
 ## Included Mods
 
-- Resource Pack
-- Performance and QoL mods
+- **Performance Mods**  
+  Optimizations for rendering, entities, memory, and game logic.
 
-## Recently Added
+- **Quality of Life Mods**  
+  Subtle enhancements that improve the experience without breaking vanilla balance.
+
+- **Resource Packs**  
+  Lightweight visual improvements with zero performance compromise.
+
+## Recent Updates
 
 - Modpack is live now on [Curseforge](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)
-- Wiki page is live [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
-- Discord Server is also Live [Discord](https://discord.gg/qWc7c6tZPP)
+- Wiki page is live: [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
+- Discord Server is also Live: [Discord](https://discord.gg/qWc7c6tZPP)
 - The licensing has been changed to MIT to provide greater freedom to the community.
-- Curseforge Documentation is added in Wiki.
-- Pack released for Minecraft version 1.21.5.
-- Pack release for Minecraft version 1.21.8.
-- Added YOSBR
+- Replaced *Enhanced Block Entities* with **Better Block Entities**
 
 ## Roadmap
 
-- Main menu UI update.
-- 1.20.4 and 1.18.2 release.
-- Fix versioning.
+- Main menu UI refresh
+- Releases for **Minecraft 1.20.4** and **1.18.2**
+- New versioning format starting from **Minecraft v26.1**
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are **always welcome** — whether it’s:
 
-See `contributing.md` for ways to get started.
+- Bug reports
+- Performance suggestions
+- Documentation improvements
+- Mod recommendations
 
-Please adhere to this project's `code of conduct`.
+Please read:
+- `CONTRIBUTING.md`
+- `CODE_OF_CONDUCT.md`
+
+before getting started.
+
 
 ## Authors
 
-- [@asabhi6776](https://www.github.com/asabhi6776)
+- [@abhixops](https://www.github.com/abhixops)
 
 ## License
 
