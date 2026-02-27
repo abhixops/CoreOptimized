@@ -51,6 +51,11 @@ For detailed instructions, please visit the [Wiki](https://coreoptimized.readthe
 - The licensing has been changed to MIT to provide greater freedom to the community.
 - Replaced *Enhanced Block Entities* with **Better Block Entities**
 
+</br>
+<div align="center">
+<a href="https://wabbanode.com/affiliate/coreoptimizedbysniperxjohn"><img src="https://cdn.modrinth.com/data/cached_images/1ed68340363cdaae11ce5f17d16d9d7c11bbe197.png"/></a>
+</div>
+
 ## Roadmap
 
 - Main menu UI refresh

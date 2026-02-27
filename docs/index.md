@@ -1,7 +1,7 @@
 # **CoreOptimized**
 
 <div align="center">
-  <img src=assets/coreoptimized_logo_update.png>
+  <a href="https://wabbanode.com/affiliate/coreoptimizedbysniperxjohn"><img src="https://cdn.modrinth.com/data/cached_images/1ed68340363cdaae11ce5f17d16d9d7c11bbe197.png"/></a>
 </div>
 
 Welcome to the official documentation for **CoreOptimized**! This project is a performance-optimized modpack that provides a great gaming experience, focusing on efficient resource usage and Quality of Life (QoL) enhancements. Whether you're a player looking for a smoother Minecraft experience or you're just curious about how CoreOptimized works, you've come to the right place.
