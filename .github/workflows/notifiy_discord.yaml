@@ -20,7 +20,7 @@ jobs:
             --arg name "$RELEASE_NAME" \
             --arg body "$RELEASE_BODY" \
             '{
-              "content": "**New Release Published!**",
+              "content": "@everyone **New Release Published!**",
               "embeds": [{
                 "title": "Release Details",
                 "fields": [
