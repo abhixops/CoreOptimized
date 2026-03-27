@@ -1,0 +1,253 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "4bafba68803e75ce6822cd6c6c865982f0e3b90a5be718777ed94fc400418eb9"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "3ad728415125ac171872f56d0953e1c2e1235a88ba6ecb5edaf5645685862785"
+
+[[files]]
+file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
+hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
+
+[[files]]
+file = "config/yosbr/config/voicechat/translations.properties"
+hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
+
+[[files]]
+file = "config/yosbr/config/voicechat/username-cache.json"
+hash = "080e092a2cdf65562653c853debb74b8a052c9423a12598eada8076de8ef9648"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "90fe49918c922fc32f98ccf770ca16651da6d2c02d042578e708397c5be15ba5"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
+hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4ace6654780233aabb56d4cd4711d7cf0597ca07b3c775b8386b340c150087ba"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "6fb0b02278452a02c44f5ff74aa72264e79ea34a7abc33f3d5ba6d7c2d20dd81"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "6c2de0fc7f9be1f23683ddb8592a795a83636d9ccfe6a96e979ac2574fe40d98"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "156e8688835a92ff6f1a199b77c0f9a16f3d5b15fd9c311cd7dd8a5b1b4d8b4d"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "52c72f2a3111b40128854657be3d08d7ec5a22a76c4bf3b73566df78a54d8130"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "5979da4f06033b5fd04d935c33e6bf3b6124dfcd23a413763fff9e37c7103e77"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b0cdd3b586c4150da87d6f8732d6baef247ef32399cf6c5734614fb54ac90e4a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a94a6c07a60ac4a15339261c95f541014de9cb79742ad0839738691faf571d8d"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "acfe3334806f51af695755a79214b6ba646674038db963b8ef4c8ce99488ece0"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "68273f6a440f6ec0ce34c8bf68dcecee7624c3e003d40fba94af3841a7fc417f"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "28b13ef815eb78c6f81a9bc318a1f30070a62ed21456f9593bee810feb512858"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "f1f012cf7cf3fc8cf69de0ba1e083b7dea79820f62f280f35a5d7af176111324"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "6d505173f3abc478d4d961dbb6ba6e2c9d94ef2481c9d41bf0ce6279e5f132fb"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "4ae774627fde22e748ba11fbce113a13019d9ee519f1b851aaf83f79e8048b2f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "2779e16ea913de83ba1242a81b099a0f4fcb3d209c4ab2d3f3a6edf3d9a0d5dc"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "056358d8651feaff127c4cb4d9e530629075c10e8aea25b60d1c94e532066630"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "31ad2138b2ffe18315ea39517ea32e0e1f8351ea7f1d57242f5ea8d418aad219"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6bf6e0e1b0cc1742f7e3ea65461168a50bd49526ffbeb453b34ee4bab3eb42c5"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "c0a27f6804fec3675717ed498b73b8bd715286bc00893b57ece6cf5d0dc0a2e8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2c95562ff7f5ab2ddda171c024c12d12dc36a9f86c92fe055a3497682e2760b4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "54bbe6316b586e4b7d2917bbbb867ba28aefa1f4bc4a0ddbc3c1408a30337154"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "fbe51395401ce68d9933a65fbcb4ed8cda82ac88d4afd79a5740116114d15949"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "24257d31bef495857896e907be55a9e960c79b3dc4972a904869f529b33b2b25"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "70810061d41b8eb952f99ef365ba26d04ae6e08875da2adfe66d9a6b337128f2"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "13b181076578330bbdda797f8a3b5b2730c3778f1648447815376fbaf4a44f0f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3f95f727b65abce8545aa2c37bb450282693c21144196f42518a9e15ad3f9b36"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.4.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "98a89237c10b7608fcc9b6978a4aeacc1b16e104a6a2e41f390050b6515595c6"
+metafile = true
