@@ -3,11 +3,11 @@ filename = "worldplaytime-1.2.4-26.1-FABRIC.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YkKeggdl/versions/HyDA8dsm/worldplaytime-1.2.4-26.1-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/YkKeggdl/versions/hp8h3MUQ/worldplaytime-1.2.4-26.1-FABRIC.jar"
 hash-format = "sha512"
-hash = "24ba54236db3d63f913b2c6342b04d56d51f223ff2b655d0c1a73aefd2d1a9ccd63c3aa45d242b9af201f9b0374d737fc69c3d35a2af434c9136915b5a080662"
+hash = "56a8cfce76bad17d7d70459a2879c71b78101d213c2f4dc595a11c972aba69af0ecfbd659a28c23ca908ea46002e5fd2fec279cf6863a94bbbd8a3af020991f9"
 
 [update]
 [update.modrinth]
 mod-id = "YkKeggdl"
-version = "HyDA8dsm"
+version = "hp8h3MUQ"

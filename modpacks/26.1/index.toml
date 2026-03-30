@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "6c2de0fc7f9be1f23683ddb8592a795a83636d9ccfe6a96e979ac2574fe40d98"
+hash = "14640ccb9c3ef1b41e874b975dfc225b02b8de6fdfa5fcdb50659eb1ddf59693"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "52c72f2a3111b40128854657be3d08d7ec5a22a76c4bf3b73566df78a54d8130"
+hash = "9862490e2b66c0b1b47abce74b8142e6e5a448d7ae796a51c8c31c28fddde3dc"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b0cdd3b586c4150da87d6f8732d6baef247ef32399cf6c5734614fb54ac90e4a"
+hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "28b13ef815eb78c6f81a9bc318a1f30070a62ed21456f9593bee810feb512858"
+hash = "e5271471cb36c733e2d8c438e077e959a47958c24ba65d1403109b0a52269cee"
 metafile = true
 
 [[files]]
@@ -170,7 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "4ae774627fde22e748ba11fbce113a13019d9ee519f1b851aaf83f79e8048b2f"
+hash = "ece202c9d736d9ba378b618d07eee905f1f7d4a94e69e9b759a88813bd2d7566"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
@@ -199,13 +204,18 @@ hash = "31ad2138b2ffe18315ea39517ea32e0e1f8351ea7f1d57242f5ea8d418aad219"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "2b1aa39ee6c7b5ca4aaa10b0fb9ed64467529af29427112c3b9873cce5800a5a"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6bf6e0e1b0cc1742f7e3ea65461168a50bd49526ffbeb453b34ee4bab3eb42c5"
+hash = "bd35f4627835e43aa8ce1dc6aefe33d2f4f3274583e639141b0ad033f4a5b0e8"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c0a27f6804fec3675717ed498b73b8bd715286bc00893b57ece6cf5d0dc0a2e8"
+hash = "b3abe623ed0aa17a0d52c40b975abf8078898355738317a851f96e712a61bcbb"
 metafile = true
 
 [[files]]
@@ -225,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "24257d31bef495857896e907be55a9e960c79b3dc4972a904869f529b33b2b25"
+hash = "b7910e5b4482b55f6a879b18977f5c53a6e30d12e06948d10b0778ae10266587"
 metafile = true
 
 [[files]]
@@ -235,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-play-time.pw.toml"
-hash = "13b181076578330bbdda797f8a3b5b2730c3778f1648447815376fbaf4a44f0f"
+hash = "6af9ee1cb378484fc6e6d544bc62e8b50af1d9a98470700d9c0114cb5b8f1543"
 metafile = true
 
 [[files]]

@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [11.0.0-alpha.1] 26.1 - 30-03-2026
+### Changed
+  - Alpha release of 26.1
+  - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)
+  - Versioning system has changed.
+  - Please do not use for your regular world, wait for next release.
+
 ## [1.8.5] 1.21.11 - 14-03-2026
 ### Updated
   - Better Statistics Screen
