@@ -11,7 +11,7 @@
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -28,7 +28,7 @@
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| ImmediatelyFast                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| ImmediatelyFast                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Jade                                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | 🛑     | 🛑     | 🛑     |
 | LambDynamicLights                       | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -39,7 +39,7 @@
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -58,7 +58,7 @@
 | TCDCommons API                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Visuality                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| World Play Time                         | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
+| World Play Time                         | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     |
 | YetAnotherConfigLib (YACL)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | YOSBR                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Zoomify                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |

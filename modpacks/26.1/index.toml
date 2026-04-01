@@ -74,6 +74,11 @@ hash = "9862490e2b66c0b1b47abce74b8142e6e5a448d7ae796a51c8c31c28fddde3dc"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "5979da4f06033b5fd04d935c33e6bf3b6124dfcd23a413763fff9e37c7103e77"
 metafile = true
@@ -110,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
+hash = "89d803cc500f29cbc646d0d931449f171f7a05f2392cce26b7261f315fb3647e"
 metafile = true
 
 [[files]]
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
 metafile = true
 
 [[files]]
@@ -179,6 +189,11 @@ hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "2779e16ea913de83ba1242a81b099a0f4fcb3d209c4ab2d3f3a6edf3d9a0d5dc"
 metafile = true
@@ -205,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2b1aa39ee6c7b5ca4aaa10b0fb9ed64467529af29427112c3b9873cce5800a5a"
+hash = "b99a7098a4c9c1af146ee77d42a5a7442673052e023bb4971f2be5f1292da481"
 metafile = true
 
 [[files]]
