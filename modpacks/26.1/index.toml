@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4bafba68803e75ce6822cd6c6c865982f0e3b90a5be718777ed94fc400418eb9"
+hash = "627c005e49bc15b6921487c256a96cce447b660e0b8fcdf33d81b0a2ca59879c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3ad728415125ac171872f56d0953e1c2e1235a88ba6ecb5edaf5645685862785"
+hash = "1dea46db29a306efcd529bd48059d95ff4dcb97b01172ec51632a443516e7ece"
+
+[[files]]
+file = "config/yosbr/config/BBEConfig.json"
+hash = "00e29e5256ac75daa3d16bd897c26d776b23cdc7542fefadc9a75fbfef6a53ef"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -46,11 +50,11 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4ace6654780233aabb56d4cd4711d7cf0597ca07b3c775b8386b340c150087ba"
+hash = "dfee04cfcc372579113474219f65deaed747a5766c9200f64bc178adf7196190"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "6fb0b02278452a02c44f5ff74aa72264e79ea34a7abc33f3d5ba6d7c2d20dd81"
+hash = "aa67608a9ff8c0535d11efff88739e43bcb747a31daba1fdd5f39301b6a7966c"
 metafile = true
 
 [[files]]
@@ -135,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
+hash = "055fdbf11f275477ac18fe88c53623fa2c104180808d10738a960ba4bf3bcffb"
 metafile = true
 
 [[files]]
@@ -196,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "2779e16ea913de83ba1242a81b099a0f4fcb3d209c4ab2d3f3a6edf3d9a0d5dc"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
 
 [[files]]
@@ -266,6 +275,16 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "055e6a5ca54023619cbc1d0c91d4a102d4eb37981940dc3f8de62e6a3ecb3e86"
 metafile = true
 
 [[files]]
