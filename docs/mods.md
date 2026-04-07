@@ -77,7 +77,7 @@
     | CIT Resewn                              | Indium                                  | Shulker+                                |
     | Dynamic Lights                          | Item Scroller                           | Tweakeroo                               |
     | Enchant Icons                           | Jade                                    | WorldEdit                               |
-    | Even Better Enchants                    |
+    | Even Better Enchants                    | Model Gap Fix                           | Reese's Sodium Options                  |
 
 !!! warning "Discontinuation Warning"
     We have removed these mods from the modpack to ensure that players can join any multiplayer server without issues. Based on feedback from our beta testers, several servers do not allow or support the aforementioned mods. We appreciate your understanding as we strive to maintain broad compatibility and improve the overall gameplay experience.
