@@ -9,7 +9,7 @@
 | Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     |
+| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -42,7 +42,7 @@
 | No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     |
+| Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ❌     | ✅     | ✅     | ❌     | ❌     | ❌     |
 | Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
