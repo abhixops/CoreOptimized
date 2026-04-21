@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "dbb60e43abef9512fbc1d8a4e0753deb103649cfa9343a3d1aebe44ee974857b"
+hash = "82571767a9b7abcde67ef0baffa7cf4752ba9aed57da25e58f9bfdfd6e7df703"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "843e1a95c3d47e4265e3857175efe02ad392ed730fba92942d14b71274df2dc5"
+hash = "393923bea40ca1578ca6622dc42c67d5c296bf99f72be82f0e55063209f71cac"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -82,8 +82,13 @@ hash = "9935e957dfa8da9e0a7744394ed453947a59d608a1c7e937db675fa761a2ea49"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "36578230c2b232b40d5964a8dbb159606758fc9a93a3f9e3e5c8d014f6c3e9b4"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "7274e4e49fbbe4868923d8c8c95f91e2baad0deef7c52659b3c8ab00c1be6b42"
+hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
 metafile = true
 
 [[files]]
@@ -178,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4f92d7d3335a217e874c93a624e2a2e781b4fa5bcc5e49f025259082f4fd920b"
+hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
@@ -188,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "18e0ba646659bc50a858729cfeff255a76c7702e5065ee56ce03e9553b430e67"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
 metafile = true
 
 [[files]]
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "bdb0ddbd9b62fd550ab9242f555803f39ebd34ccb38a63c6279e898a720e4cea"
 metafile = true
 
 [[files]]

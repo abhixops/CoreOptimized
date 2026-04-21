@@ -6,7 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [11.2.0-alpha.2] 26.1.2 - ---04-2026
+## [11.2.0-alpha.2] 26.1.2 - 22-04-2026
+### Added
+  - BetterF3
+  - Paginated Advancements & Custom Frames
 ### Updated
   - Better Block Entities
   - BetterGrassify
@@ -16,6 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Modernfix
   - Not Enough Animations
   - Presence Footsteps
+  - Lithium
+  - LambDynamicLights
+### Changed
+  - Updated and enforced Fabric Loader 0.19.2.
 
 ## [11.2.0-alpha.1] 26.1.2 - 15-04-2026
 ### Changed
