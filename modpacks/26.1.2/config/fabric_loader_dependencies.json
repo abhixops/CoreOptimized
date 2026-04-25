@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.19.2"}},"minecraft":{"+recommends":{"Core Optimized":">11.2.0-alpha.2"}}}}
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.19.2"}},"minecraft":{"+recommends":{"Core Optimized":">11.2.0-beta.1"}}}}
