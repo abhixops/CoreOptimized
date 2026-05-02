@@ -6,9 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [11.2.0-beta.1] 26.1.2 - ---04-2026
+## [11.2.0-beta.1] 26.1.2 - 02-05-2026
 ### Updated
   - Fabric Language Kotlin
+  - BetterF3
+  - Fabric API
+  - Better Clouds
+  - Sodium
+  - Better Block Entities
+  - Entity Model Features
+  - More Culling
+  - Respackopts
 
 ## [11.2.0-alpha.2] 26.1.2 - 22-04-2026
 ### Added
