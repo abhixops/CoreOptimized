@@ -1,7 +1,7 @@
 site_name: CoreOptimized Documentation
 site_url: https://coreoptimized.readthedocs.io
 site_description: CoreOptimized modpack Documentation.
-repo_url: https://github.com/asabhi6776/CoreOptimized
+repo_url: https://github.com/abhixops/CoreOptimized
 repo_name: CoreOptimized
 edit_uri: blob/master/docs/
 theme: 
@@ -60,12 +60,12 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-copyright: Copyright &copy; asabhi6776 2025.
+copyright: Copyright &copy; abhixops 2026.
 
 extra: 
   social:
     - icon: simple/github
-      link: https://github.com/asabhi6776/CoreOptimized
+      link: https://github.com/abhixops/CoreOptimized
     - icon: simple/discord
       link: https://discord.gg/qWc7c6tZPP
     - icon: simple/modrinth

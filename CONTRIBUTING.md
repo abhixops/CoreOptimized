@@ -23,7 +23,7 @@ To get started with contributing, please follow these steps:
 
 5. **Make changes**: Write clear and concise code. Ensure your changes are well-documented and tested.
 
-6. **Run tests**: Ensure all tests pass locally before submitting a pull request.
+6. **Run tests**: Ensure modpack is running as expected.
 
 ## Submitting a Pull Request
 
