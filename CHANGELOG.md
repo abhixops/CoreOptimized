@@ -6,6 +6,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [11.2.0-beta.2] 26.1.2 - 08-05-2026
+### Updated
+  - Simple Voice Chat
+  - Sodium
+  - Better Clouds
+  - Entity Culling
+  - Fabric API
+
+## [1.8.6] 1.21.11 - 08-05-2026
+### Updated
+  - Spark
+  - AudioPlayer
+  - Better Block Entities
+  - Entity Texture Features
+  - Iris Shaders
+  - Sodium
+  - Entity Model Features
+  - Fabric Language Kotlin
+  - Not Enough Animations
+  - Entity Culling
+  - Mod Menu
+  - Debugify
+  - Better Statistics Screen
+  - Shulker Box Tooltips
+  - BetterGrassify
+  - Polytone
+  - Optigui
+  - Simple Voice Chat
+  - Dynamic FPS
+  - Visuality
+### Changed
+  - Updated and enforced Fabric Loader 0.19.2.
+
 ## [11.2.0-beta.1] 26.1.2 - 02-05-2026
 ### Updated
   - Fabric Language Kotlin
