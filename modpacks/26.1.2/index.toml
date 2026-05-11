@@ -57,6 +57,11 @@ file = "config/yosbr/options.txt"
 hash = "dfee04cfcc372579113474219f65deaed747a5766c9200f64bc178adf7196190"
 
 [[files]]
+file = "mods/animaticarefabricated.pw.toml"
+hash = "f57fd73661597866f209d7e8e4fdfc11f8a1ef1a3a780fe1796c28f1b6d48bda"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "c8af456eca8937d460efd4fc72934ff0f0d2d042ab73880258f63bda4104e16f"
 metafile = true
@@ -138,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "22a4393b10d352d054bc13e1992d36c652f96d4e0dea28460b060afd0a372bd7"
+hash = "6c2f5d0b6229451159ab5d44c1b38954dc0236b94388b6e0ac174b5475cd2135"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
+hash = "42eac2c5f04724698fef548d0eec80151572b147149b0760cbc4322fc3020328"
 metafile = true
 
 [[files]]
@@ -208,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
 metafile = true
 
 [[files]]
@@ -233,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f08b0c3a68c46e7fc24f7d080d87376471ec6766c8226097e2a3419ff1556885"
+hash = "0f1192a7e40192261310314d9fc2d584c701245dd29698ea1a674b3b676e9abd"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b3bf6eb1cf803d702af91d3ca5f39e7528e1d55afdae03833f6e31698803caa9"
+hash = "05c19cf37d76c1c53853f0b367b0ad5308d799c72354c2f2a320609eb0c7aaa6"
 metafile = true
 
 [[files]]
