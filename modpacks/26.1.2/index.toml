@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "87fc402a564e40b60a40b3cf3c901e0fe6e4fa4f569154c049b43425fca0e8d2"
+hash = "b8e5bf7ad79231dfdc8e8bb01b16bc29e577428f53d26db843ed8f7e8023c31c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d0b83af21987ac6762834719b377ceaccfcbb6c724c7e42d9b91ea81e24da0cd"
+hash = "bb77d21fcafcd088d90508d2c1a5c0daa843e5cdd90bdbecd8dda0823ec9329d"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "70840a6fafda10a17218ed11bfb2574af2d7ac06c3ce8f611e7d41517783be26"
+hash = "3a7f685358fe4eda8dc265f2d350c05e2cbc8c7a661e1d9676e72a02bc044a2b"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "c2f7894f6710a7d6f5579d4272324a7533f83c75c47a2117ac90a7b4b7bfbd19"
+hash = "6abc95d2b12215339b7141d1d8066dc141f96e9c592ce3d087231f58f6612d67"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42eac2c5f04724698fef548d0eec80151572b147149b0760cbc4322fc3020328"
+hash = "dae57c5a1bea0fb7b104fff48e4dd5b76c0eb46cb198f65b4a3ca13316c86d20"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "dc12b3aba319df85cefde7e6fb0e89e59399fa304a2bbfacf812fb240c06380b"
+hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "05c19cf37d76c1c53853f0b367b0ad5308d799c72354c2f2a320609eb0c7aaa6"
+hash = "61e81490e34e2fad9b8fda7419fd6ef72f3aad942ab210a70142af0bd806f409"
 metafile = true
 
 [[files]]
