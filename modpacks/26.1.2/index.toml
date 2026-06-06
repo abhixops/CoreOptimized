@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b8e5bf7ad79231dfdc8e8bb01b16bc29e577428f53d26db843ed8f7e8023c31c"
+hash = "3fe3b8884de4ca5b0fa3ccd110d31e651ee71b48cbe6daae55c2855ed70f4e53"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bb77d21fcafcd088d90508d2c1a5c0daa843e5cdd90bdbecd8dda0823ec9329d"
+hash = "5caeabdb5a05cbcaaf983eeb6fef014d16b824dadc3b59ab08d206d095d83dfb"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -58,7 +58,7 @@ hash = "dfee04cfcc372579113474219f65deaed747a5766c9200f64bc178adf7196190"
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "f57fd73661597866f209d7e8e4fdfc11f8a1ef1a3a780fe1796c28f1b6d48bda"
+hash = "f41ad1ae9062bffcc37a34c5f637c0bf6269c1cc92b3477fe05488fb80b5d2e4"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "a7c1498879c0fd6e6710aa0d90f267833be326113dea79544b45342381e456a7"
+hash = "4a53b0066812531666d78f9f36c83f3eaa20a622d4102f91db9ac635d398e297"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "8e56109449c9815e985a86e689afd841c2f73bc6002b5cac039b84b022f9e8b0"
+hash = "9412b6025c856fcce3d74947f3b59e58670e0ecda08d7e05d9235247886733c7"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
+hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
 metafile = true
 
 [[files]]
@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
+hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
+hash = "90d5603faf196b9c30274831dd042935311202a58baaa7c7e2e50df6198d85e3"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "94768827963a3c80fffa06fbbf9d1c2cbae436c1ef83074d01221f1259f7cf55"
+hash = "f636645376123a093996e41df7fecd3a1755e6e53dafdc942031c014d151c72a"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2e210dbb2eca274d176c1f5d93d41638f9826153d358e9c428f1341331bc0ea5"
+hash = "a2e9d2e08cb39c159b50ab8a0a2c38896700f7ab66a7682d691dd91628b4b34d"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "64c0337aed7a425b5c1a9e31ec78a350bf578c69b47b15b5d1070ebd3bb6860a"
+hash = "586927387ed68620d679a6a885917b261452b769f08308c08b54da333b6d9896"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
+hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
 metafile = true
 
 [[files]]
