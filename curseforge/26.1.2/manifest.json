@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "11.2.0-beta.3",
+  "version": "11.2.0-beta.4",
   "author": "SniperXJohn",
   "files": [
     {
@@ -41,7 +41,7 @@
     },
     {
       "projectID": 1512894,
-      "fileID": 7920441,
+      "fileID": 8157875,
       "required": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "projectID": 1285973,
-      "fileID": 8034031,
+      "fileID": 8182004,
       "required": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "projectID": 975120,
-      "fileID": 8091453,
+      "fileID": 8191685,
       "required": true
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 335493,
-      "fileID": 7817848,
+      "fileID": 8159041,
       "required": true
     },
     {
@@ -121,12 +121,17 @@
     },
     {
       "projectID": 306612,
-      "fileID": 8087351,
+      "fileID": 8158594,
       "required": true
     },
     {
       "projectID": 308769,
-      "fileID": 7976268,
+      "fileID": 8190687,
+      "required": true
+    },
+    {
+      "projectID": 708967,
+      "fileID": 8136275,
       "required": true
     },
     {
@@ -161,7 +166,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 7947043,
+      "fileID": 8196298,
       "required": true
     },
     {
@@ -181,7 +186,7 @@
     },
     {
       "projectID": 630104,
-      "fileID": 7984541,
+      "fileID": 8198253,
       "required": true
     },
     {
@@ -221,7 +226,7 @@
     },
     {
       "projectID": 394468,
-      "fileID": 8087413,
+      "fileID": 8111041,
       "required": true
     },
     {
@@ -236,7 +241,7 @@
     },
     {
       "projectID": 711539,
-      "fileID": 7868895,
+      "fileID": 8158512,
       "required": true
     },
     {
@@ -246,7 +251,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 8037825,
+      "fileID": 8158634,
       "required": true
     },
     {
@@ -256,7 +261,7 @@
     },
     {
       "projectID": 667299,
-      "fileID": 7904436,
+      "fileID": 8196582,
       "required": true
     },
     {
