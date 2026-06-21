@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [11.2.1] 26.1.2 - 21-06-2026
+### Updated
+  - Chat Heads
+  - Presence Footsteps
+  - Better Statistics Screen
+  - Entity Culling
+  - Lithium
+  - More Culling
+  - Shulker Box Tooltips
+  - Fabric API
+  - AudioPlayer
+  - LambDynamicLights
+  - Moderfix-mVUS
+  - BetterGrassify
+  - Capes
+  - Not enough Animations
+  - Simple Voice Chat
+### Changed
+  - Updated and enforced Fabric Loader 0.19.3.
+
 ## [11.2.0-beta.4] 26.1.2 - 07-06-2026
 ### Added 
   - FastQuit

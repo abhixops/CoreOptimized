@@ -3,7 +3,7 @@
     "version": "26.1.2",
     "modLoaders": [
       {
-        "id": "fabric-0.19.2",
+        "id": "fabric-0.19.3",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "11.2.0-beta.4",
+  "version": "11.2.1",
   "author": "SniperXJohn",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 1026394,
-      "fileID": 7961441,
+      "fileID": 8262604,
       "required": true
     },
     {
@@ -61,17 +61,17 @@
     },
     {
       "projectID": 667464,
-      "fileID": 7868899,
+      "fileID": 8242070,
       "required": true
     },
     {
       "projectID": 408481,
-      "fileID": 7808528,
+      "fileID": 8259110,
       "required": true
     },
     {
       "projectID": 407206,
-      "fileID": 7818852,
+      "fileID": 8174615,
       "required": true
     },
     {
@@ -115,13 +115,8 @@
       "required": true
     },
     {
-      "projectID": 448233,
-      "fileID": 8053788,
-      "required": true
-    },
-    {
       "projectID": 306612,
-      "fileID": 8158594,
+      "fileID": 8251786,
       "required": true
     },
     {
@@ -156,7 +151,7 @@
     },
     {
       "projectID": 393442,
-      "fileID": 7958212,
+      "fileID": 8257060,
       "required": true
     },
     {
@@ -166,12 +161,12 @@
     },
     {
       "projectID": 360438,
-      "fileID": 8196298,
+      "fileID": 8260969,
       "required": true
     },
     {
       "projectID": 1367508,
-      "fileID": 8078534,
+      "fileID": 8273352,
       "required": true
     },
     {
@@ -186,12 +181,12 @@
     },
     {
       "projectID": 630104,
-      "fileID": 8198253,
+      "fileID": 8220433,
       "required": true
     },
     {
       "projectID": 433760,
-      "fileID": 8063432,
+      "fileID": 8274926,
       "required": true
     },
     {
@@ -216,7 +211,7 @@
     },
     {
       "projectID": 315811,
-      "fileID": 7847980,
+      "fileID": 8145698,
       "required": true
     },
     {
@@ -236,12 +231,12 @@
     },
     {
       "projectID": 361579,
-      "fileID": 7815875,
+      "fileID": 8275629,
       "required": true
     },
     {
       "projectID": 711539,
-      "fileID": 8158512,
+      "fileID": 8242065,
       "required": true
     },
     {
@@ -251,7 +246,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 8158634,
+      "fileID": 8280772,
       "required": true
     },
     {
@@ -287,6 +282,11 @@
     {
       "projectID": 334259,
       "fileID": 7926743,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 8287120,
       "required": true
     }
   ],
