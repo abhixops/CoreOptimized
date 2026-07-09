@@ -6,6 +6,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [12.0.0-alpha.2] 26.2 - 09-07-2026
+### Added
+  - OptiGui
+  - Polytone
+  - Shulker Box Tooltips
+  - BetterF3
+### Updated
+  - Chat Animation
+  - More Culling
+  - No Chat Reports
+  - Better Statistics Screen
+  - Sodium Extra
+  - Modernfix-mVUS
+  - Better Clouds
+  - Sodium
+  - Fabric API
+  - Animatica Refabricated
+  - Reese's Sodium Options
+  - Iris Shaders
+  - Redstone Tweaks
+  - Mod Menu
+
 ## [12.0.0-alpha.1] 26.2 - 28-06-2026
 ### Changed
   - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)
