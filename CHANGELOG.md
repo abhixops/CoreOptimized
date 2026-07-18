@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [12.0.0-beta.1] 26.2 - 19-07-2026
+### Updated
+  - Rees's Sodium Options
+  - Better Block Entities
+  - Better Statistics Screen
+  - ImmediatelyFast
+  - AudioPlayer
+  - Fabric API
+  - Mod Menu
+  - Sodium Extra
+  - Lithium
+  - Better Cloud
+
 ## [12.0.0-alpha.2] 26.2 - 09-07-2026
 ### Added
   - OptiGui
