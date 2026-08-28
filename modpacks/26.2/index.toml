@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2f60f0d6e236b9653dd84d21cadfef8e2bc114f7409313432f43e90af81ec7e4"
+hash = "c8bcdd9da323b07e89b394ffe8ef2ecba7b08b9a459417c9302ff1185df39cee"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dda8fd3ec4cd303404590476cd40a084046b0361510ec7916d22861dd1d37580"
+hash = "94c87d6f42642308d9551048d0af89a5a0dc7cc5ecaf44b5df6135aa2ad84ad6"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "674f78a89de996dbb91d922d9e99cd38646e7a715a4373f6e6c285f3fe3106b7"
+hash = "2c5cb7b630f770c1cbd923135dca774367fa28dfdca7e3f9c38314729d566b38"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4ae52571966463d2e23f70704621089c5d3306536acd69173144e402eaf5c13f"
+hash = "b8f08af6a8b119989a54753de8a607213de841931c710a122fb079f68ed7beb0"
 metafile = true
 
 [[files]]
