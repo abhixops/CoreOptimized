@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [12.0.0-beta.2] 26.2 - 29-08-2026
+### Added
+  - FastQuit
+  - Paginated Advancements & Custom Frames
+### Updated
+  - Better Clouds
+  - Better Statistics Screen
+  - Fabric API
+  - ImmediatelyFast
+  - LambDynamicLights
+  - Simple Voice Chat
+  - No Chat Reports
+  - Polytone
+  - YetAnotherConfigLib (YACL)
+  - Chat Heads
+  - Lithium
+  - Sodium
+  - More Culling
+  - RespackOpts
+
 ## [12.0.0-beta.1] 26.2 - 19-07-2026
 ### Updated
   - Rees's Sodium Options
