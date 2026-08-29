@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c8bcdd9da323b07e89b394ffe8ef2ecba7b08b9a459417c9302ff1185df39cee"
+hash = "f6bd9f0566dc05d2ac157949ae924371ec5f957983410c994bdd8dd1e10ea9bd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "94c87d6f42642308d9551048d0af89a5a0dc7cc5ecaf44b5df6135aa2ad84ad6"
+hash = "6fcf93a57fceebd7f0915c0aa09aa1c757bc9e9e4206bfbf5a15e4f9c70909e8"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
+hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
 
 [[files]]
