@@ -6,6 +6,44 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [12.0.1] 26.2 - ---09-2026
+### Added
+  - World Play Time Reborn
+### Updated
+  - Polytone
+  - Fabric API
+  - Entity Texture Features
+  - Entity Model Features
+  - AudioPlayer
+  - LambDynamicLights
+
+## [11.2.2] 26.1.2 - 03-09-2026
+### Updated
+  - Entity Texture Features
+  - Entity Model Features
+  - Fabric API
+  - Iris Shaders
+  - Better Block Entities
+  - Better Statistics Screen
+  - Cubes Without Borders
+  - Simple Voice Chat
+  - Redstone Tweaks
+  - AudioPlayer
+  - ImmediatelyFast
+  - Respackopts
+  - Sodium
+  - Sodium Extra
+  - Presence Footsteps
+  - Shulker Box Tooltips
+  - Chat Animations
+  - More Culling
+  - Zoomify
+  - Animatica Refabricated
+  - Mod Menu
+  - Lithium
+  - Modernfix-mVUS
+  - Chat Heads
+
 ## [12.0.0-beta.3] 26.2 - 29-08-2026
 ### Fix
   - Downgraded sodium to work with Iris
