@@ -64,7 +64,13 @@
 | Zoomify                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 
 !!! note "Changes"
-    - In all versions, Better Advancements is being replaced by Paginated Advancements and Custom Frames.
+    - Replaced mods
+
+        | Original Mod | New Mod |
+        |-------------|--------------|
+        | Animatica   | Animatica-refabricated |
+        | Modernfix   | Modernfix-mVUS |
+        | Enhanced Block Entities | Better Block Entities |
 
 ??? example "Click to view discontinued mods."
     | Mod Name                                | Mod Name                                | Mod Name                                |
