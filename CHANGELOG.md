@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [12.0.2] 26.2 - 14-09-2026
+### Updated
+  - Sodium
+  - Iris Shaders
+  - Polytone
+  - Simple Voice Chat
+  - Audio Player
+  - Entity Model Features
+  - Fabric API
+  - Spark
+### Changed
+  - Updated and enforced fabric loader 0.19.5
+
 ## [12.0.1] 26.2 - 03-09-2026
 ### Added
   - World Play Time Reborn

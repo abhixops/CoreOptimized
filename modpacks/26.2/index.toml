@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a8eeb36cd8db4bbeca6fee84cc0ccc5790292dba9d179b0d2eff0dd6b60aaab1"
+hash = "2b94bd228a7f0120d72b80a4ab59259cbd42183bbadd79756cac87ceaafd01de"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4ee0512755e6a67bf1230cc6ee957a76b446cd6f8354f59ed446385b12528f13"
+hash = "5c69581f3e6e7828b8526ff75360128ceeafd951c40e015e1ccf8828c1752d3c"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "6398bf13277919f95762041a15c040ebb76bd277d8beefbcf3b303fdeebf617a"
+hash = "06ef8bbfece5f08e81214dde2f17f3fd0371e3209addf0f6ece6ee6f0a159a92"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ea3de9f9d2373a1e82c5116482af9cebc45fbd658230b8dd5d903f8d9348481d"
+hash = "44ee083173741300ced9075e99b4aebec1c2ab230e69500f34844b5e41b7aa27"
 metafile = true
 
 [[files]]
@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2f63ca526981e06de2c3b9684cfb7e21abf636cf9f0f657b9151685cd11692a7"
+hash = "37069be1c7d23b2fe463a98297d1f12eb8875f0d3be651a3a6cadc868752ab5a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
+hash = "8c4fe8cfa2eb63ba2df48772ce83ede8b07620f44482447bda564dbd317d51a0"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
+hash = "fa00f7dbf48bbcf6940248d3fd3629f43656c54006cc63d5560f9ca77ccd97a9"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "091dfc7683f3c27a8eb1a73ba3c5082d5f168c7215ed6ff02cf7d283e951e0c1"
+hash = "a63aed4e0a7d07d3d61a3ffda22748c4090e7401439fe9631a2990cb8b609ec9"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "566a59532a3429cb222b4ec92f9b307f42159016c2c4f3bcc25f32797224c3b1"
+hash = "a83f944cf699f5c8f179c4fec4c28067f859f7f550e56741df2159878b6dc240"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
+hash = "efab6a798140d1c23982bf99b27b32f1b79922ae4ac3d9564781cf65630a0d75"
 metafile = true
 
 [[files]]
