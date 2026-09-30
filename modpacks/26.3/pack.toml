@@ -1,0 +1,13 @@
+name = "CoreOptimized"
+author = "SniperXJohn"
+version = "13.0.0-alpha.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4f0a28a2054d0b8f141e654fc1555cf15a4e5dfab53cf94c23c5ed50e09a9fa1"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

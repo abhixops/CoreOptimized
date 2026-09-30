@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [13.0.0-alpha.1] 26.3 - 01-10-2026
+### Changed
+  - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)
+  - Updated and enforced Fabric Loader 0.19.5.
+
 ## [12.0.2] 26.2 - 14-09-2026
 ### Updated
   - Sodium
