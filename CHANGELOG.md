@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [13.0.0-alpha.2] 26.3 - 09-10-2026
+### Added
+  - BetterF3
+### Updated
+  - Fabric API
+  - More Culling
+  - Entity Texture Features
+  - Zoomify
+  - Chat Heads
+  - Entity Model Features
+  - Redstone Tweaks
+  - Chat Animation
+  - Entity Culling
+
 ## [13.0.0-alpha.1] 26.3 - 01-10-2026
 ### Changed
   - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)

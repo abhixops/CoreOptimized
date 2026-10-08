@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1587a624b31308c3389929fba11ceda0a5364800d285cc05bd14451644c09144"
+hash = "3825e0bce78362bf7e1cbe358982a1d6ada809eb5d86008373505c2cb04d5227"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f504087e5c33209a530b614a6d17affa4d4ac32d56dabddf296e99ab4dbaccfd"
+hash = "7f652d5c8f315231498bcc5fe03bb80b9a2e828e226acf74874428caf04ffb39"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -54,7 +54,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6151339bbb938bec5f0a62f14347367c36e2e31c77c72cd61b31a656a366e04d"
+hash = "d376f68e403f81bfaff17bfd6024481eaa3a277918b7039844a9d15145620a05"
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
@@ -87,6 +87,11 @@ hash = "d5f535c245e7a0251147bcf7d8c04d63ba635a1398492ff25702417cc01533d5"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "d3c07272ae992b894ee2deb23e68d46f21048e670c664898bac9522da5bdd5ab"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "57791283291466d626b526aef786019522401efa5cea784a85c22e998463463c"
 metafile = true
@@ -103,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d02f19ad1ced26842ec50539cdaf16b208fbf80b67eea02f2755f839d6888c68"
+hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
 metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "675f699380335f4b83b2626eaa430950ddcf2ce52b43dacc4b2eb93adc809b4c"
+hash = "ee61a0d82f97cca2c190db02ad7456dda366427986f5483fd700d9fb82338301"
 metafile = true
 
 [[files]]
@@ -133,22 +138,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b16ee79f04344fd9fc643ece06e88824efa8aa240bb39945d4b0b6c8e130bfea"
+hash = "eb9fd7324d0bc7717b3f128aea47edae105c4800ab55590f1ba6cc1448d6bb7a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4a2061e66de340e42c321452326670ff7164b34d76656ffe686ef14c026ccf15"
+hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a203d4ba81ff70c255ca073d1d1d745cf9ebe88b9f256a8a758c8ccffbacd5f2"
+hash = "174132163654f70d74e319cabd754b78abae9b690c9017642e7a22a51ffbb43c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -218,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f32ebeb468312cf555bd84d09c1a3a6e6f9ed992e4afc3ce9620aca571490806"
+hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
 metafile = true
 
 [[files]]
@@ -328,11 +333,11 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2eab932dd5793bbbba9959eb0924d386e0705e96d58b8f6249cd75804c713c18"
+hash = "7ac50a41949c05df550b62d54051bc171491644eef010aa19bd8abe3419909b1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Redstone Tweaks 2.5.5.zip.rpo"
+file = "resourcepacks/Redstone Tweaks 2.5.6.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
@@ -342,5 +347,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "e3e9969aba842a573092443612c2289a22568a1fe9f02e434bcb0ed1ac8c1206"
+hash = "784770b9d54a6ab880c0b3905c64ccff0adfa07a7b152fc1a057bfdcfaad706a"
 metafile = true
