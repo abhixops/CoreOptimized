@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d3841a18d8f9999c52008b5736b9755326d7fdb38461d2d9be69a825e9de3faa"
+hash = "b3bff896b11c332a50ae202a7a5bfb1d11f62491630681aa6d279452ded7eb57"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "853da674fea8647d9b555af9f7aa1016d6d91f52ddda36057d305ee87bdbc143"
+hash = "b9a085fb9861fffdd0bd2b15c7db52a7b91bc9d3eb3a0f14ab587c2743648206"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -54,16 +54,16 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d376f68e403f81bfaff17bfd6024481eaa3a277918b7039844a9d15145620a05"
+hash = "9f543cb217be84f4df74da315d8d64cd4c13e2f803523e3245f593da5958636f"
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "541a40fcd45f578d27955b1cea270ff94398dcda07296bf283c41efe6a3bb0e0"
+hash = "34920a5d4393d732df6be123cb263815cc2684c3ec8866480927413879768c54"
 metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "ea72340a3540c06d7ab641ca56b191339bcdcc3faac3b55ed025f35678f4a543"
+hash = "dd9010541feb7abf2e830af92325536861593fa7b2d7a88e32d3bd191f6d849b"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "90f923838a67e36a7766af7e59161339c01c4c38f72422bd4058a0903698eb94"
+hash = "9f648aadbf85909f50fe658445febbf4e865e8a2ed5463156a126a0832351185"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
-hash = "fe1a70074b24fe087e801bc2405d8e30eff06840c2073d88538b72f9ea7bbde0"
+hash = "358b4815b0daa0b2c49335891cba4b9a1c504c01c576496a2505673cc53a2c25"
 metafile = true
 
 [[files]]
@@ -124,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "3461a95532ba09ce3c15fad9980b2aadc47d2ccb52eb29caa304295053f698eb"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
 metafile = true
 
 [[files]]
@@ -283,17 +288,17 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a60445c98a3a1412a6429357cb70302af6505165049f57f29b81b1489c4673b9"
+hash = "5d79a93f9dfd1fe63ebbe276056b9b7830f2480c3ffab35db5285d4b3c8a6014"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
+hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
+hash = "56bb32f1d8f7148d559b15806185b69023a7b04d228ed6143a54601ee5e57279"
 metafile = true
 
 [[files]]
@@ -303,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1f2a07748eb8051e599f98f19a0ec89cd0ab536bb9c8dac0b644dbd80bfaa7c4"
+hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
 metafile = true
 
 [[files]]
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "12c110a8b1b654d71d1be5d9cc8538fa579d3f8adba607caf051bf519a7f636b"
+hash = "d6d90af04ff420052503b58380e649817e556fc75b41eb02b84ff1262011c50f"
 metafile = true
 
 [[files]]
@@ -347,7 +352,7 @@ hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
+hash = "435a3f840613486ed00c68c6eea16324083b9a5a745503b22942d6b53c06b5ed"
 metafile = true
 
 [[files]]

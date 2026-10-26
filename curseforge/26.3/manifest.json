@@ -3,7 +3,7 @@
     "version": "26.3",
     "modLoaders": [
       {
-        "id": "fabric-0.19.5",
+        "id": "fabric-0.20.1",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "13.0.0-beta.1",
+  "version": "13.0.0-beta.2",
   "author": "SniperXJohn",
   "files": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 1512894,
-      "fileID": 9156917,
+      "fileID": 9330228,
       "required": true
     },
     {
@@ -66,12 +66,12 @@
     },
     {
       "projectID": 667464,
-      "fileID": 9207402,
+      "fileID": 9310154,
       "required": true
     },
     {
       "projectID": 482160,
-      "fileID": 8990527,
+      "fileID": 9283557,
       "required": true
     },
     {
@@ -97,6 +97,11 @@
     {
       "projectID": 531351,
       "fileID": 8892594,
+      "required": true
+    },
+    {
+      "projectID": 975120,
+      "fileID": 9308993,
       "required": true
     },
     {
@@ -126,7 +131,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 9171660,
+      "fileID": 9295874,
       "required": true
     },
     {
@@ -231,12 +236,7 @@
     },
     {
       "projectID": 315811,
-      "fileID": 8897805,
-      "required": true
-    },
-    {
-      "projectID": 447673,
-      "fileID": 8892474,
+      "fileID": 9326210,
       "required": true
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "projectID": 535489,
-      "fileID": 8909383,
+      "fileID": 9280065,
       "required": true
     },
     {
@@ -255,13 +255,13 @@
       "required": true
     },
     {
-      "projectID": 521126,
-      "fileID": 8930194,
+      "projectID": 711539,
+      "fileID": 9310151,
       "required": true
     },
     {
-      "projectID": 416089,
-      "fileID": 8928706,
+      "projectID": 521126,
+      "fileID": 8930194,
       "required": true
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "projectID": 453763,
-      "fileID": 7854681,
+      "fileID": 9262896,
       "required": true
     },
     {
@@ -295,8 +295,13 @@
       "required": true
     },
     {
-      "projectID": 711539,
-      "fileID": 9207395,
+      "projectID": 447673,
+      "fileID": 9324422,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 9307244,
       "required": true
     }
   ],
