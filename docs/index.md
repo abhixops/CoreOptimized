@@ -25,6 +25,6 @@ CoreOptimized is an open-source project, and we welcome contributions! Check out
 
 ## Need Help?
 
-If you have any questions or run into issues, visit our [Support](support.md) section or feel free to open an issue on our [GitHub repository](https://github.com/asabhi6776/CoreOptimized).
+If you have any questions or run into issues, visit our [Support](support.md) section or feel free to open an issue on our [GitHub repository](https://github.com/abhixops/CoreOptimized).
 
 Happy gaming with CoreOptimized!
