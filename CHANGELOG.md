@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [13.0.1] 26.3 - 07-11-2026
+### Updated
+  - Animatica
+  - Fresh Animations
+  - Fabric API
+  - More Culling
+  - Lithium
+  - Better Clouds
+  - Paginated Advancements
+  - Entity Texture Features
+  - Not Enough Animations
+  - Simple Voice Chat
+
 ## [12.0.3] 26.2 - 07-11-2026
 ### Updated
   - Updated all eligible mods.

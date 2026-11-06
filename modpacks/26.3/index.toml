@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b3bff896b11c332a50ae202a7a5bfb1d11f62491630681aa6d279452ded7eb57"
+hash = "edf18d3e057d57050b2e8dd22edff8e12aaf2ba947e29c7ad8757710a77a5991"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b9a085fb9861fffdd0bd2b15c7db52a7b91bc9d3eb3a0f14ab587c2743648206"
+hash = "bde66c38d8636a28a4a024f01a6a8120b24c8979e73a556a8e820f004c9e4cb2"
 
 [[files]]
 file = "config/yosbr/config/BBEConfig.json"
@@ -54,11 +54,11 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9f543cb217be84f4df74da315d8d64cd4c13e2f803523e3245f593da5958636f"
+hash = "ce94985646349878fda5aeb151e24e7e87dd51ebbf7ac0a0c869fd0f4c27719f"
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
-hash = "34920a5d4393d732df6be123cb263815cc2684c3ec8866480927413879768c54"
+hash = "5a14e2da5f1cca725362f8f4d912a94bed22d2c3be2958fde6e91cd1702a99b0"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "17611711e838c82f601feffafc16f4e1e94762f470be8c4bcc02183d5e611314"
+hash = "b6476f8c07b48528018d237e0f5c916e7aeb6dafc94a99d09fe3ac2332c03da8"
 metafile = true
 
 [[files]]
@@ -153,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
+hash = "c029d9c7873a6f072332e97d54422efa438bc8ae81d53bd1c078a6dd1644f0ce"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+hash = "79de372a05dde6ee4f23ced936835dbd9d43b64ba61ae1990cb0e59dce460e6a"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6859959461c25d035a508bd97e4ea9ddcc8241e37f1ea92e3b4d920f601913a4"
+hash = "a0fefd25252e1dfac7da103d64436b9d7579b5cf404fd664139c4db079f40897"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "5c54f485a3d166cfa6a931c016f7e31150a34c128271b985ce3c3ceed62d1330"
+hash = "21aa3d956e22b5328be6749d2cf89cf21a227f54df76bbe1822f6f5f78216e56"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "435a3f840613486ed00c68c6eea16324083b9a5a745503b22942d6b53c06b5ed"
+hash = "817c682d213e4d8ef43a4b1c674c17970b2368dee45b793f53e009f4f4a95384"
 metafile = true
 
 [[files]]
