@@ -1,13 +1,13 @@
 name = "Animatica Refabricated"
-filename = "animatica-0.6.3+26.2.jar"
+filename = "animatica-0.7.0+beta.4+26.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xEyZuswh/versions/SjuTFuhz/animatica-0.6.3%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/xEyZuswh/versions/z1hPMQvl/animatica-0.7.0%2Bbeta.4%2B26.2-fabric.jar"
 hash-format = "sha512"
-hash = "318b29f83accee30547e027aa333fa6f31850ba959e662c635237290bbe8a04b0b47c99666f534cbcdb485d5d8bf9cb0dd189af4b9841ed89987c49cf3f6bb19"
+hash = "ea92a2da97e0512f2245da6759cd5b1e2db4ce4bd9ec701af6c1034966e0782203886a1c01512e7954becf571d36d319ddee20c29735df388d9598af66317573"
 
 [update]
 [update.modrinth]
 mod-id = "xEyZuswh"
-version = "SjuTFuhz"
+version = "z1hPMQvl"
