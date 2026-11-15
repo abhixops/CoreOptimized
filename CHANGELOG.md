@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [13.0.2] 26.3 - 16-11-2026
+### Updated
+  - Animatica
+  - Better Block Entities
+  - More Culling
+  - Entity Culling
+  - Fabric API
+  - OptiGUI
+  - Sodium
+  - Mod Menu
+  - Sodium Extra
+  - AudioPlayer
+  - Reese's Sodium Options
+
 ## [13.0.1] 26.3 - 07-11-2026
 ### Updated
   - Animatica
